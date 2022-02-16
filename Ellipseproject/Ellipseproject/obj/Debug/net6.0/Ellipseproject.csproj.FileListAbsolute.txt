@@ -1,0 +1,15 @@
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\bin\Debug\net6.0\Ellipseproject.exe
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\bin\Debug\net6.0\Ellipseproject.deps.json
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\bin\Debug\net6.0\Ellipseproject.runtimeconfig.json
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\bin\Debug\net6.0\Ellipseproject.dll
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\bin\Debug\net6.0\ref\Ellipseproject.dll
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\bin\Debug\net6.0\Ellipseproject.pdb
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.csproj.AssemblyReference.cache
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.AssemblyInfoInputs.cache
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.AssemblyInfo.cs
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.csproj.CoreCompileInputs.cache
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.dll
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\ref\Ellipseproject.dll
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.pdb
+D:\ycheba\tlegor\Ellipseproject\Ellipseproject\obj\Debug\net6.0\Ellipseproject.genruntimeconfig.cache
