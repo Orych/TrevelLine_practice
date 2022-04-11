@@ -1,0 +1,15 @@
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.csproj.AssemblyReference.cache
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.GeneratedMSBuildEditorConfig.editorconfig
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.AssemblyInfoInputs.cache
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.AssemblyInfo.cs
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.csproj.CoreCompileInputs.cache
+D:\tlpractice\computer\computer\computer\bin\Debug\net6.0\computer.exe
+D:\tlpractice\computer\computer\computer\bin\Debug\net6.0\computer.deps.json
+D:\tlpractice\computer\computer\computer\bin\Debug\net6.0\computer.runtimeconfig.json
+D:\tlpractice\computer\computer\computer\bin\Debug\net6.0\computer.dll
+D:\tlpractice\computer\computer\computer\bin\Debug\net6.0\computer.pdb
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.dll
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\refint\computer.dll
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.pdb
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\computer.genruntimeconfig.cache
+D:\tlpractice\computer\computer\computer\obj\Debug\net6.0\ref\computer.dll
